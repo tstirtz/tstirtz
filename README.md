@@ -1,4 +1,4 @@
-###👨‍💻 About Me:
+### 👨‍💻 About Me:
 Frontend Developer with 6+ years of experience in React, TypeScript, frontend tooling, and I am a certified Web Accessibility Specialist. Interested in web performance optimization, web accessibility, and building component driven UIs. Optimized an enterprise web application, significantly improving performance, accessibility, and SEO, increasing Google's site quality score from <60 to 96.
 I specialize in building high-performance, accessible, and scalable frontend applications. I’ve worked on enterprise-level projects, building maintainable and scalable projects.
 
